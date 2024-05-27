@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page14.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -11948,8 +11948,9 @@
     },
     "page14.html": {
       "settings": {
-        "title": "Page 14",
-        "order": "1"
+        "title": "Kunjungan Pemadam Kebakaran",
+        "order": "1",
+        "meta_descr": ""
       },
       "components": [
         {
